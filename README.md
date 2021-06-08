@@ -6,6 +6,17 @@ Actualmente me dedico al desarrollo de aplicaciones web que ayuden a solucionar 
 
 ¿Interesado por mis conocimientos y habilidades? ¡Quizás podamos trabajar juntos!
 
+- 🔭 Actualmente estoy trabajando en un proyecto increible.
+- 🌱 Actualmente estoy aprendiendo Next JS.
+- 👯 Estoy buscando colaborar en React JS.
+<!---
+- 🤔 Estoy buscando ayuda con ...
+- 💬 Pregúntame sobre ...
+- 📫 Cómo contactarme: ...
+- 😄 Pronombres: ...
+- ⚡ Dato curioso: ...
+---->
+
 Visita mi [Pagina Web Personal](https://chaicopadillag.github.io/)
 
 ![Portafolio Personal](https://raw.githubusercontent.com/chaicopadillag/chaicopadillag.github.io/master/img/portada.jpg 'Portafolio Personal')
@@ -18,3 +29,4 @@ Tailwind CSS.
 ## Developer Backend
 
 Desarrollo de aplicaciones web con lenguaje de PHP (Framework Laravel y CodeIgniter) y API RESTful, Node JS, C#, Java, Asp.Net. Modelado y Gestion de Bases de Datos Sql Server y MySql.
+
