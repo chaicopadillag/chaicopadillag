@@ -7,8 +7,8 @@ Actualmente me dedico al desarrollo de aplicaciones web que ayuden a solucionar 
 ¿Interesado por mis conocimientos y habilidades? ¡Quizás podamos trabajar juntos!
 
 - 🔭 Actualmente estoy trabajando en un proyecto increible.
-- 🌱 Actualmente estoy aprendiendo Next JS.
-- 👯 Estoy buscando colaborar en React JS.
+- 🌱 Actualmente estoy aprendiendo 🅰️ Angular.
+- 👯 Estoy buscando colaborar en ⚛️ React JS.
 <!---
 - 🤔 Estoy buscando ayuda con ...
 - 💬 Pregúntame sobre ...
