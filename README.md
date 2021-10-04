@@ -21,5 +21,9 @@ Actualmente me dedico al desarrollo de aplicaciones web que ayuden a solucionar 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaicopadillag&theme=ayu-mirage&langs_count=6&layout=compact)](https://github.com/chaicopadillag/github-readme-stats)
 
+## Mis estadísticas de codigo ⌨️
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chaicopadillag&theme=ayu-mirage)](https://github.com/chaicopadillag/github-readme-stats)
+
+
 ## Visitas al perfil 😂
 ![VisitorCount](https://profile-counter.glitch.me/hernanreiq/count.svg)
