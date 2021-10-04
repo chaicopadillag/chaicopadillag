@@ -1,6 +1,6 @@
-# Hola, soy Gerardo 👋
+# [![Hola, soy gerardo](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=%2336BCF7&size=30&lines=Hola+%F0%9F%91%8B%2C+soy+Gerardo)](https://git.io/typing-svg)
 
-Soy Programador y Desarrollador Web autodidacta, proactivo y eficaz de Lima, Perú. Me apasiona mucho trabajar con nuevas tecnologías, disfruto creando aplicaciones de alto rendimiento tanto en Backend como en Frontend.
+[Soy Programador y Desarrollador Web autodidacta](https://chaicopadillag.github.io/), proactivo y eficaz de Perú. Me apasiona mucho trabajar con nuevas tecnologías, disfruto creando aplicaciones de alto rendimiento tanto en Backend como en Frontend.
 Contribuyo a proyectos de Open-source y comunidades de programación ayudando a otros usuarios. En el futuro me gustaría poder crear mi propio negocio.
 Actualmente me dedico al desarrollo de aplicaciones web que ayuden a solucionar los diversos problemas que aquejan al mundo de hoy.
 
@@ -9,24 +9,17 @@ Actualmente me dedico al desarrollo de aplicaciones web que ayuden a solucionar 
 - 🔭 Actualmente estoy trabajando en un proyecto increible.
 - 🌱 Actualmente estoy aprendiendo 🅰️ Angular.
 - 👯 Estoy buscando colaborar en ⚛️ React JS.
-<!---
-- 🤔 Estoy buscando ayuda con ...
-- 💬 Pregúntame sobre ...
-- 📫 Cómo contactarme: ...
-- 😄 Pronombres: ...
-- ⚡ Dato curioso: ...
----->
 
-Visita mi [Pagina Web Personal](https://chaicopadillag.github.io/)
+## Estas son mis estadísticas resumidas de GitHub 📈
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=chaicopadillag&theme=ayu-mirage&show_icons=true&count_private=true)
 
-![Portafolio Personal](https://raw.githubusercontent.com/chaicopadillag/chaicopadillag.github.io/master/img/portada.jpg 'Portafolio Personal')
+## My streaks 🔥
 
-## Developer Frontend
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chaicopadillag&count_private=true&theme=ayu-mirage&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-UI Design, prototipado y desarrollo de páginas y aplicaciones web modernas con tecnologias React JS, HTML5, Css3, Sass, Javascript, Frameworks Bootstrap y 
-Tailwind CSS.
+## Las tecnologias que más uso 👨‍💻
 
-## Developer Backend
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaicopadillag&theme=ayu-mirage&langs_count=6&layout=compact)](https://github.com/chaicopadillag/github-readme-stats)
 
-Desarrollo de aplicaciones web con lenguaje de PHP (Framework Laravel y CodeIgniter) y API RESTful, Node JS, C#, Java, Asp.Net. Modelado y Gestion de Bases de Datos Sql Server y MySql.
-
+## Visitas al perfil 😂
+![VisitorCount](https://profile-counter.glitch.me/hernanreiq/count.svg)
