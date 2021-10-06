@@ -15,7 +15,7 @@ Actualmente me dedico al desarrollo de aplicaciones web que ayuden a solucionar 
 
 ## My streaks 🔥
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chaicopadillag&count_private=true&theme=ayu-mirage&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chaicopadillag&theme=ayu-mirage&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 ## Las tecnologias que más uso 👨‍💻
 
@@ -25,5 +25,6 @@ Actualmente me dedico al desarrollo de aplicaciones web que ayuden a solucionar 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chaicopadillag&theme=ayu-mirage)](https://github.com/chaicopadillag/github-readme-stats)
 
 
+
 ## Visitas al perfil 😂
-![VisitorCount](https://profile-counter.glitch.me/hernanreiq/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/chaicopadillag/count.svg)
