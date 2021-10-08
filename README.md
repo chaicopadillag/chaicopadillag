@@ -12,21 +12,21 @@ Actualmente me dedico al desarrollo de aplicaciones web que ayuden a solucionar 
 
 ## Las Tecnologías con las que trabajo
 
-[![Nodejs Badge](https://img.shields.io/badge/-Node.js-3c873a?style=for-the-badge&labelColor=black&logo=node.js&logoColor=68a063)](#)
-[![Next Badge](https://img.shields.io/badge/-Next.js-ffffff?style=for-the-badge&labelColor=black&logo=next.js&logoColor=fffff)](#)
-[![React Badge](https://img.shields.io/badge/-React.js-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Angular Badge](https://img.shields.io/badge/-Angular-d4173b?style=for-the-badge&labelColor=black&logo=angular&logoColor=d4173b)](#)
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![Laravel Badge](https://img.shields.io/badge/-Laravel-ff2d20?style=for-the-badge&labelColor=black&logo=laravel&logoColor=ff2d20)](#)
-[![PHP Badge](https://img.shields.io/badge/-php-474a8a?style=for-the-badge&labelColor=black&logo=php&logoColor=474a8a)](#)
-[![C# Badge](https://img.shields.io/badge/-csharp-purple?style=for-the-badge&labelColor=black&logo=csharp&logoColor=ffffff)](#)
-[![Git Badge](https://img.shields.io/badge/-Git-f1502f?style=for-the-badge&labelColor=black&logo=git&logoColor=f1502f)](#)
+[![Nodejs Badge](https://img.shields.io/badge/-Node.js-3c873a?style=for-the-badge&labelColor=white&logo=node.js&logoColor=68a063)](#)
+[![Next Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&labelColor=white&logo=next.js&logoColor=000000)](#)
+[![React Badge](https://img.shields.io/badge/-React.js-61dafb?style=for-the-badge&labelColor=white&logo=react&logoColor=61dafb)](#)
+[![Angular Badge](https://img.shields.io/badge/-Angular-d4173b?style=for-the-badge&labelColor=white&logo=angular&logoColor=d4173b)](#)
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=white&logo=typescript&logoColor=007acc)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=white&logo=javascript&logoColor=F0DB4F)](#)
+[![Laravel Badge](https://img.shields.io/badge/-Laravel-ff2d20?style=for-the-badge&labelColor=white&logo=laravel&logoColor=ff2d20)](#)
+[![PHP Badge](https://img.shields.io/badge/-php-8892BF?style=for-the-badge&labelColor=white&logo=php&logoColor=8892BF)](#)
+[![C# Badge](https://img.shields.io/badge/-csharp-purple?style=for-the-badge&labelColor=white&logo=csharp&logoColor=purple)](#)
+[![Git Badge](https://img.shields.io/badge/-Git-f1502f?style=for-the-badge&labelColor=white&logo=git&logoColor=f1502f)](#)
 
-[![HTML5 Badge](https://img.shields.io/badge/-html5-e34c26?style=for-the-badge&labelColor=black&logo=html5&logoColor=e34c26)](#)
-[![CSS3 Badge](https://img.shields.io/badge/-css-2965f1?style=for-the-badge&labelColor=black&logo=css3&logoColor=2965f1)](#)
-[![Tailwind Badge](https://img.shields.io/badge/-Tailwindcss-06B6D4?style=for-the-badge&labelColor=black&logo=Tailwindcss&logoColor=06B6D4)](#)
-[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-0d6efd?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=0d6efd)](#)
+[![HTML5 Badge](https://img.shields.io/badge/-html5-e34c26?style=for-the-badge&labelColor=white&logo=html5&logoColor=e34c26)](#)
+[![CSS3 Badge](https://img.shields.io/badge/-css-2965f1?style=for-the-badge&labelColor=white&logo=css3&logoColor=2965f1)](#)
+[![Tailwind Badge](https://img.shields.io/badge/-Tailwindcss-06B6D4?style=for-the-badge&labelColor=white&logo=Tailwindcss&logoColor=06B6D4)](#)
+[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-0d6efd?style=for-the-badge&labelColor=white&logo=bootstrap&logoColor=0d6efd)](#)
 
 ## Mis estadísticas resumidas de GitHub 📈
 
