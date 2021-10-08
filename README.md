@@ -12,21 +12,21 @@ Actualmente me dedico al desarrollo de aplicaciones web que ayuden a solucionar 
 
 ## Las Tecnologías con las que trabajo
 
-[![Nodejs Badge](https://img.shields.io/badge/-Node.js-3c873a?style=for-the-badge&labelColor=white&logo=node.js&logoColor=68a063)](#)
-[![Next Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&labelColor=white&logo=next.js&logoColor=000000)](#)
-[![React Badge](https://img.shields.io/badge/-React.js-61dafb?style=for-the-badge&labelColor=white&logo=react&logoColor=61dafb)](#)
-[![Angular Badge](https://img.shields.io/badge/-Angular-d4173b?style=for-the-badge&labelColor=white&logo=angular&logoColor=d4173b)](#)
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=white&logo=typescript&logoColor=007acc)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=white&logo=javascript&logoColor=F0DB4F)](#)
-[![Laravel Badge](https://img.shields.io/badge/-Laravel-ff2d20?style=for-the-badge&labelColor=white&logo=laravel&logoColor=ff2d20)](#)
-[![PHP Badge](https://img.shields.io/badge/-php-8892BF?style=for-the-badge&labelColor=white&logo=php&logoColor=8892BF)](#)
-[![C# Badge](https://img.shields.io/badge/-csharp-purple?style=for-the-badge&labelColor=white&logo=csharp&logoColor=purple)](#)
-[![Git Badge](https://img.shields.io/badge/-Git-f1502f?style=for-the-badge&labelColor=white&logo=git&logoColor=f1502f)](#)
+[![Node JS](https://img.shields.io/badge/Node.js-3c873a.svg?style=for-the-badge&logo=Node.js&logoColor=white)](#)
+[![Next Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](#)
+[![React Badge](https://img.shields.io/badge/-React.js-61DBFB?style=for-the-badge&logo=react&logoColor=white)](#)
+[![Angular Badge](https://img.shields.io/badge/-Angular-d4173b?style=for-the-badge&logo=angular&logoColor=white)](#)
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white)](#)
+[![Laravel Badge](https://img.shields.io/badge/-Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white)](#)
+[![PHP Badge](https://img.shields.io/badge/-php-8892BF?style=for-the-badge&logo=php&logoColor=white)](#)
+[![C# Badge](https://img.shields.io/badge/-csharp-purple?style=for-the-badge&logo=csharp&logoColor=white)](#)
+[![Git Badge](https://img.shields.io/badge/-Git-f1502f?style=for-the-badge&logo=git&logoColor=white)](#)
 
-[![HTML5 Badge](https://img.shields.io/badge/-html5-e34c26?style=for-the-badge&labelColor=white&logo=html5&logoColor=e34c26)](#)
-[![CSS3 Badge](https://img.shields.io/badge/-css-2965f1?style=for-the-badge&labelColor=white&logo=css3&logoColor=2965f1)](#)
-[![Tailwind Badge](https://img.shields.io/badge/-Tailwindcss-06B6D4?style=for-the-badge&labelColor=white&logo=Tailwindcss&logoColor=06B6D4)](#)
-[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-0d6efd?style=for-the-badge&labelColor=white&logo=bootstrap&logoColor=0d6efd)](#)
+[![HTML5 Badge](https://img.shields.io/badge/-html5-e34c26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS3 Badge](https://img.shields.io/badge/-css-2965f1?style=for-the-badge&logo=css3&logoColor=white)](#)
+[![Tailwind Badge](https://img.shields.io/badge/-Tailwindcss-06B6D4?style=for-the-badge&logo=Tailwindcss&logoColor=white)](#)
+[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-0d6efd?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
 
 ## Mis estadísticas resumidas de GitHub 📈
 
@@ -46,12 +46,12 @@ Actualmente me dedico al desarrollo de aplicaciones web que ayuden a solucionar 
 
 ## Mis Redes Sociales
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/chaicopadillag)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/chaicopadillag)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ReactJSEspanol)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=51928522616&text=Hola%20G.%20Chaico,%20me%20contacto%20desde%20tu%20web%20personal.)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaicopadillag/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/chaicopadillag/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/chaicopadillag)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/chaicopadillag)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/ReactJSEspanol)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=51928522616&text=Hola%20G.%20Chaico,%20me%20contacto%20desde%20tu%20web%20personal.)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaicopadillag/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/chaicopadillag/)
 
 ## Visitas al perfil 😂
 
