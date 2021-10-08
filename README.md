@@ -26,6 +26,7 @@ Actualmente me dedico al desarrollo de aplicaciones web que ayuden a solucionar 
 [![CSS3 Badge](https://img.shields.io/badge/-css-2965f1?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![Tailwind Badge](https://img.shields.io/badge/-Tailwindcss-06B6D4?style=for-the-badge&logo=Tailwindcss&logoColor=white)](#)
 [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-0d6efd?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
+[![Wordpress Badge](https://img.shields.io/badge/-Wordpress-0d6efd?style=for-the-badge&logo=wordpress&logoColor=white)](#)
 
 ## Mis estadísticas resumidas de GitHub 📈
 
