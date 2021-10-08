@@ -19,10 +19,10 @@ Actualmente me dedico al desarrollo de aplicaciones web que ayuden a solucionar 
 
 ## Las tecnologias que más uso 👨‍💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaicopadillag&theme=ayu-mirage&langs_count=6&layout=compact)](https://github.com/chaicopadillag/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaicopadillag&theme=ayu-mirage&langs_count=6&layout=compact)](https://chaicopadillag.github.io/)
 
 ## Mis estadísticas de codigo ⌨️
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chaicopadillag&theme=ayu-mirage)](https://github.com/chaicopadillag/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chaicopadillag&theme=ayu-mirage)](https://chaicopadillag.github.io/)
 
 
 
