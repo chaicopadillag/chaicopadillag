@@ -1,30 +1,58 @@
 # [![Hola, soy gerardo](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=%2336BCF7&size=30&lines=Hola+%F0%9F%91%8B%2C+soy+Gerardo)](https://git.io/typing-svg)
 
-[Soy Programador y Desarrollador Web autodidacta](https://chaicopadillag.github.io/), proactivo y eficaz de Perú. Me apasiona mucho trabajar con nuevas tecnologías, disfruto creando aplicaciones de alto rendimiento tanto en Backend como en Frontend.
+Soy Programador y Desarrollador Web autodidacta, proactivo y eficaz de Perú. Me apasiona mucho trabajar con nuevas tecnologías, disfruto creando aplicaciones de alto rendimiento tanto en Backend como en Frontend.
 Contribuyo a proyectos de Open-source y comunidades de programación ayudando a otros usuarios. En el futuro me gustaría poder crear mi propio negocio.
 Actualmente me dedico al desarrollo de aplicaciones web que ayuden a solucionar los diversos problemas que aquejan al mundo de hoy.
 
-¿Interesado por mis conocimientos y habilidades? ¡Quizás podamos trabajar juntos!
+¿Interesado por mis conocimientos y habilidades? ¡Quizás podamos trabajar juntos! [Mi resumen personal.](https://chaicopadillag.github.io/)
 
 - 🔭 Actualmente estoy trabajando en un proyecto increible.
 - 🌱 Actualmente estoy aprendiendo 🅰️ Angular.
 - 👯 Estoy buscando colaborar en ⚛️ React JS.
 
-## Estas son mis estadísticas resumidas de GitHub 📈
+## Las Tecnologías con las que trabajo
+
+[![Nodejs Badge](https://img.shields.io/badge/-Node.js-3c873a?style=for-the-badge&labelColor=black&logo=node.js&logoColor=68a063)](#)
+[![Next Badge](https://img.shields.io/badge/-Next.js-ffffff?style=for-the-badge&labelColor=black&logo=next.js&logoColor=fffff)](#)
+[![React Badge](https://img.shields.io/badge/-React.js-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![Angular Badge](https://img.shields.io/badge/-Angular-d4173b?style=for-the-badge&labelColor=black&logo=angular&logoColor=d4173b)](#)
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![Laravel Badge](https://img.shields.io/badge/-Laravel-ff2d20?style=for-the-badge&labelColor=black&logo=laravel&logoColor=ff2d20)](#)
+[![PHP Badge](https://img.shields.io/badge/-php-474a8a?style=for-the-badge&labelColor=black&logo=php&logoColor=474a8a)](#)
+[![C# Badge](https://img.shields.io/badge/-csharp-purple?style=for-the-badge&labelColor=black&logo=csharp&logoColor=ffffff)](#)
+[![Git Badge](https://img.shields.io/badge/-Git-f1502f?style=for-the-badge&labelColor=black&logo=git&logoColor=f1502f)](#)
+
+[![HTML5 Badge](https://img.shields.io/badge/-html5-e34c26?style=for-the-badge&labelColor=black&logo=html5&logoColor=e34c26)](#)
+[![CSS3 Badge](https://img.shields.io/badge/-css-2965f1?style=for-the-badge&labelColor=black&logo=css3&logoColor=2965f1)](#)
+[![Tailwind Badge](https://img.shields.io/badge/-Tailwindcss-06B6D4?style=for-the-badge&labelColor=black&logo=Tailwindcss&logoColor=06B6D4)](#)
+[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-0d6efd?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=0d6efd)](#)
+
+## Mis estadísticas resumidas de GitHub 📈
+
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=chaicopadillag&theme=ayu-mirage&show_icons=true&count_private=true)
 
 ## My streaks 🔥
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chaicopadillag&theme=ayu-mirage&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
-## Las tecnologias que más uso 👨‍💻
+## Las Tecnologias que más uso 👨‍💻
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaicopadillag&theme=ayu-mirage&langs_count=6&layout=compact)](https://chaicopadillag.github.io/)
 
-## Mis estadísticas de codigo ⌨️
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chaicopadillag&theme=ayu-mirage)](https://chaicopadillag.github.io/)
+## Mis estadísticas de Codigo ⌨️
 
+[![Gerardo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chaicopadillag&theme=ayu-mirage)](https://chaicopadillag.github.io/)
 
+## Mis Redes Sociales
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](<[#](https://twitter.com/chaicopadillag)>)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](<[#](https://www.facebook.com/chaicopadillag)>)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](<[#](https://t.me/ReactJSEspanol)>)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](<[#](https://api.whatsapp.com/send?phone=51928522616&text=Hola%20G.%20Chaico,%20me%20contacto%20desde%20tu%20web%20personal.)>)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaicopadillag/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](<[#](https://www.instagram.com/chaicopadillag/)>)
 
 ## Visitas al perfil 😂
+
 ![VisitorCount](https://profile-counter.glitch.me/chaicopadillag/count.svg)
