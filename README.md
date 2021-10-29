@@ -42,7 +42,7 @@ Actualmente me dedico al desarrollo de aplicaciones web que ayuden a solucionar 
 
 ## Mis estadísticas de Codigo ⌨️
 
-[![Gerardo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@chaicopadillag&theme=ayu-mirage)](https://chaicopadillag.github.io/)
+[![Gerardo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@chaicopadillag&layout=compact&theme=ayu-mirage&custom_title=Estad%C3%ADsticas+de+tiempo)](https://chaicopadillag.github.io/)
 
 ## Mis Redes Sociales
 
