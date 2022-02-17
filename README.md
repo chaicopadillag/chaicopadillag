@@ -7,7 +7,7 @@ Actualmente me dedico al desarrollo de aplicaciones web que ayuden a solucionar 
 ¿Interesado por mis conocimientos y habilidades? ¡Quizás podamos trabajar juntos! [Mi resumen personal.](https://chaicopadillag.github.io/)
 
 - 🔭 Actualmente estoy trabajando en un proyecto increible.
-- 🌱 Actualmente estoy aprendiendo 🅰️ Angular.
+- 🌱 Actualmente estoy aprendiendo ⌨️ Flutter.
 - 👯 Estoy buscando colaborar en ⚛️ React JS.
 
 ## Las Tecnologías con las que trabajo
