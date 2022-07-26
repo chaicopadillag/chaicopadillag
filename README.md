@@ -1,4 +1,4 @@
-# [![Hola, soy gerardo](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=%2336BCF7&size=30&lines=Hola+%F0%9F%91%8B%2C+soy+Gerardo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=%2336BCF7&size=30&vCenter=true&width=700&lines="Si+lo+puedes+imaginar%2C+lo+puedes+programar.")](https://git.io/typing-svg)
 
 Soy Programador y Desarrollador Web autodidacta, proactivo y eficaz de Perú. Me apasiona mucho trabajar con nuevas tecnologías, disfruto creando aplicaciones de alto rendimiento tanto en Backend como en Frontend.
 Contribuyo a proyectos de Open-source y comunidades de programación ayudando a otros usuarios. En el futuro me gustaría poder crear mi propio negocio.
