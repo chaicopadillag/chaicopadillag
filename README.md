@@ -3,7 +3,7 @@
 Soy un **Desarrollador Full Stack** autodidacta y apasionado por la creación de aplicaciones web de alto rendimiento. Me especializo en el desarrollo con **Node.js**, **React.js**, **Astro**, y **Angular**, usando **TypeScript** en todo el stack. Mi objetivo es construir soluciones que resuelvan problemas reales y escalen de manera eficiente.
 
 🚀 **Tecnologías que domino**:
-- **Backend**: Node.js (NestJS y Express), Java (Spring Boot).
+- **Backend**: Node.js (NestJS y Express.js), Java (Spring Boot).
 - **Frontend**: React.js, Next.js, Angular, Astro
 - **Base de Datos**: MySQL, PostgreSQL, MongoDB, Redis
 - **Infraestructura & DevOps**: AWS, Docker, CI/CD
