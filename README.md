@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=%2336BCF7&size=30&vCenter=true&width=700&lines="Si+lo+puedes+imaginar%2C+lo+puedes+programar.")](https://git.io/typing-svg)
-
 # ¡Hola! Soy Gerardo 👋
 
 Soy un **Desarrollador Full Stack** autodidacta y apasionado por la creación de aplicaciones web de alto rendimiento. Me especializo en el desarrollo con **Node.js**, **React.js**, **Astro**, y **Angular**, usando **TypeScript** en todo el stack. Mi objetivo es construir soluciones que resuelvan problemas reales y escalen de manera eficiente.
@@ -72,6 +70,8 @@ Soy un **Desarrollador Full Stack** autodidacta y apasionado por la creación de
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=51928522616&text=Hola%20G.%20Chaico,%20me%20contacto%20desde%20tu%20web%20personal.)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaicopadillag/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/chaicopadillag/)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=%2336BCF7&size=30&vCenter=true&width=700&lines="Si+lo+puedes+imaginar%2C+lo+puedes+programar.")](https://git.io/typing-svg)
 
 ## Visitas al perfil 😂
 
