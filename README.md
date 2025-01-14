@@ -2,7 +2,7 @@
 
 Soy un **Desarrollador Full Stack** autodidacta y apasionado por la creación de aplicaciones web de alto rendimiento. Me especializo en el desarrollo con **Node.js**, **React.js**, **Astro**, y **Angular**, usando **TypeScript** en todo el stack. Mi objetivo es construir soluciones que resuelvan problemas reales y escalen de manera eficiente.
 
-¿Buscas un desarrollador capaz de convertir tus ideas en realidad? ¡Hablemos y hagamos que tus proyectos destaquen 🚀! [Contactame aquí.](https://chaicopadillag.github.io/)
+¿Buscas un desarrollador capaz de convertir tus ideas en realidad? ¡Hablemos! 🚀 [Contactame aquí.](https://chaicopadillag.github.io/)
 
 ## 🔧 Herramientas y tecnologías que uso
 
