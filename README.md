@@ -2,7 +2,7 @@
 
 Soy un **Desarrollador Full Stack** autodidacta y apasionado por la creación de aplicaciones web de alto rendimiento. Me especializo en el desarrollo con **Node.js**, **React.js**, **Astro**, y **Angular**, usando **TypeScript** en todo el stack. Mi objetivo es construir soluciones que resuelvan problemas reales y escalen de manera eficiente.
 
-¿Buscas un desarrollador capaz de convertir tus ideas en realidad? ¡Hablemos! 🚀 [Contactame aquí.](https://chaicopadillag.github.io/)
+Si tienes ideas, proyectos interesantes o simplemente quieres conectar, no dudes en [escribirme aquí.](https://chaicopadillag.github.io/) ¡Estoy abierto a colaborar! 🚀
 
 ## 🔧 Herramientas y tecnologías que uso
 
@@ -16,10 +16,15 @@ Soy un **Desarrollador Full Stack** autodidacta y apasionado por la creación de
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white&style=for-the-badge)
 ![Laravel ](https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white&style=for-the-badge)
 
+### Cloud
+![AWS](https://img.shields.io/badge/aws-232F3E.svg?logo=amazonwebservices&logoColor=white&style=for-the-badge)
+
+
 ### Frontend & Frameworks
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)
 ![React](https://img.shields.io/badge/react.js-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/next.js-black?logo=next.js&logoColor=white&style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)
 ![Astro](https://img.shields.io/badge/astro-%23FF5D00.svg?logo=astro&logoColor=white&style=for-the-badge)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white&style=for-the-badge)
@@ -29,6 +34,7 @@ Soy un **Desarrollador Full Stack** autodidacta y apasionado por la creación de
 ![MySQL](https://img.shields.io/badge/mysql-00758F.svg?logo=mysql&logoColor=white&style=for-the-badge)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&style=for-the-badge)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white&style=for-the-badge)
 
 ### Desarrillo Movil
@@ -36,7 +42,6 @@ Soy un **Desarrollador Full Stack** autodidacta y apasionado por la creación de
 
 ### Otros
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?logo=docker&logoColor=white&style=for-the-badge)
-![AWS](https://img.shields.io/badge/aws-232F3E.svg?logo=amazonwebservices&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge) 
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white&style=for-the-badge)
 
